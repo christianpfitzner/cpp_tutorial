@@ -11,7 +11,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 add_executable(lambdaExpression cpp14/lambdaExpression.cpp)
 add_executable(uniquePtr        cpp14/uniquePtr.cpp)
 add_executable(auto             cpp14/auto.cpp)
-add_executable(string_operations cpp14/string_operations.cpp)
+#add_executable(string_operations cpp14/string_operations.cpp)
 
 
 add_executable(deprecated       cpp14/deprecated.cpp)
